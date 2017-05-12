@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BootStrapLoginwindow {
 
-
+  // GIT hub example
 	public static void main(String[] args) throws InterruptedException {
 
 		System.setProperty("webdriver.gecko.driver",
